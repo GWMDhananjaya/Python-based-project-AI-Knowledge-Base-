@@ -1,0 +1,8 @@
+Date,Temperature,Humidity,Weather,Precipitation,WindSpeed
+2024-01-01,22,80,Sunny,0.0,5.0
+2024-01-02,20,85,Cloudy,0.1,3.0
+2024-01-03,19,75,Rainy,2.0,7.0
+2024-01-04,21,70,Sunny,0.0,6.0
+2024-01-05,18,65,Stormy,3.0,12.0
+2024-01-06,17,90,Snowy,5.0,4.0
+2024-01-07,23,78,Sunny,0.0,5.0
